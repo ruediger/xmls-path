@@ -1,0 +1,2 @@
+xmls-path is a Common Lisp library for matching XML expressions. It is comparable to very basic XPath. I developed the library in 2006. However I stopped developing but maybe somebody finds it useful.
+
